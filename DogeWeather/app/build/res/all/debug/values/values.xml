@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Eva/Documents/GitHub/DogeWeather/DogeWeather/app/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <array name="default_locations">
@@ -10,7 +10,7 @@
         <item>New York, United States Of America</item>
         <item>Barcelona, Spain</item>
     </array>
-    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/color.xml -->
+    <!-- From: file:/C:/Users/Eva/Documents/GitHub/DogeWeather/DogeWeather/app/src/main/res/values/color.xml -->
     <eat-comment />
 
     <color name="dark_blue">#3C4A90</color>
@@ -19,15 +19,15 @@
     <color name="light_gray">#C5C5C5</color>
     <color name="red">#FF1D28</color>
     <color name="yellow">#FCEE21</color>
-    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Eva/Documents/GitHub/DogeWeather/DogeWeather/app/src/main/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="no_network_connection_height">53dp</dimen>
-    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/integer.xml -->
+    <!-- From: file:/C:/Users/Eva/Documents/GitHub/DogeWeather/DogeWeather/app/src/main/res/values/integer.xml -->
     <eat-comment />
 
     <integer name="translate_anim_duration">1300</integer>
-    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Eva/Documents/GitHub/DogeWeather/DogeWeather/app/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <string name="action_about">About</string>
@@ -56,7 +56,7 @@
     <string name="ok">OK</string>
     <string name="title_activity_locations">Locations</string>
     <string name="title_edit_locations">Edit</string>
-    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Eva/Documents/GitHub/DogeWeather/DogeWeather/app/src/main/res/values/styles.xml -->
     <eat-comment />
 
     <style name="AppBaseTheme" parent="android:Theme.Light">

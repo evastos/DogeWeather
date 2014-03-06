@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\assets" />
+        <source path="C:\Users\Eva\Documents\GitHub\DogeWeather\DogeWeather\app\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\debug\assets" />
+        <source path="C:\Users\Eva\Documents\GitHub\DogeWeather\DogeWeather\app\src\debug\assets" />
     </dataSet>
 
 </merger>

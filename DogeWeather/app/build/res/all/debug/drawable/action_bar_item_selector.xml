@@ -4,4 +4,4 @@
     <item android:state_focused="true" android:state_pressed="true" android:drawable="@color/yellow" />
     <item android:state_focused="false" android:state_pressed="true" android:drawable="@color/yellow" />
     <item android:drawable="@android:color/transparent" />
-</selector><!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/drawable/action_bar_item_selector.xml -->
+</selector><!-- From: file:/C:/Users/Eva/Documents/GitHub/DogeWeather/DogeWeather/app/src/main/res/drawable/action_bar_item_selector.xml -->

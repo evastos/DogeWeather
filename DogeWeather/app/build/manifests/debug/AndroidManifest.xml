@@ -1,4 +1,4 @@
-<!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0.0" package="com.evastos.dogeweather">
+<!-- From: file:/C:/Users/Eva/Documents/GitHub/DogeWeather/DogeWeather/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0.0" package="com.evastos.dogeweather">
 
     <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="19"/>
 
