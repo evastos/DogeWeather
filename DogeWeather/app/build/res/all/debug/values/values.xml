@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <array name="default_locations">
+        <item>Dublin, Ireland</item>
+        <item>London, United Kingdom</item>
+        <item>New York, United States Of America</item>
+        <item>Barcelona, Spain</item>
+    </array>
+    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="dark_blue">#3C4A90</color>
+    <color name="gray">#7F7F7F</color>
+    <color name="light_blue">#96B4E4</color>
+    <color name="light_gray">#C5C5C5</color>
+    <color name="red">#FF1D28</color>
+    <color name="yellow">#FCEE21</color>
+    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="no_network_connection_height">53dp</dimen>
+    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/integer.xml -->
+    <eat-comment />
+
+    <integer name="translate_anim_duration">1300</integer>
+    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_about">About</string>
+    <string name="action_add">Add</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_error">Error</string>
+    <string name="action_info">Info</string>
+    <string name="action_locations">Locations</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_select_all">Select all</string>
+    <string name="action_settings">Unit settings</string>
+    <string name="app_name">DogeWeather</string>
+    <string name="choose_location">-- Choose location --</string>
+    <string name="close">Close</string>
+    <string name="default_client_error_message">Error connecting to the client</string>
+    <string name="label_last_update">Last update:</string>
+    <string name="label_precipitation">Precipitation:</string>
+    <string name="label_wind">Wind:</string>
+    <string name="location_added">Location added</string>
+    <string name="location_deleted">Location deleted</string>
+    <string name="locations_deleted">Locations deleted</string>
+    <string name="no_network_connection">No network connection</string>
+    <string name="no_results">No results found</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_locations">Locations</string>
+    <string name="title_edit_locations">Edit</string>
+    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

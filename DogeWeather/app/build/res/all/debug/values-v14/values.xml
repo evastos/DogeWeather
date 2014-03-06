@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/values-v14/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+
+        <!-- API 14 theme customizations can go here. -->
+        <item name="android:actionBarStyle">@style/AppBaseTheme.ActionBar</item>
+        <item name="android:actionButtonStyle">@style/AppBaseTheme.ActionBar.ActionButtonStyle</item>
+    </style>
+
+    <style name="AppBaseTheme.ActionBar" parent="android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/dark_blue</item>
+        <item name="android:subtitleTextStyle">@style/AppBaseTheme.ActionBar.TitleTextStyle</item>
+        <item name="android:actionButtonStyle">@style/AppBaseTheme.ActionBar.ActionButtonStyle</item>
+    </style>
+
+    <style name="AppBaseTheme.ActionBar.ActionButtonStyle" parent="android:style/Widget.Holo.Light.ActionButton">
+        <item name="android:background">@drawable/action_bar_item_selector</item>
+    </style>
+
+    <style name="AppBaseTheme.ActionBar.SpinnerDropDownItemStyle" parent="android:TextAppearance.Holo.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@drawable/spinner_item_units_selector</item>
+    </style>
+
+    <style name="AppBaseTheme.ActionBar.SpinnerItemStyle" parent="android:TextAppearance.Holo.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="AppBaseTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+</resources>

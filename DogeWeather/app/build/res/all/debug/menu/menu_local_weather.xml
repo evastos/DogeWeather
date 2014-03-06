@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/action_refresh"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_locations"
+        android:icon="@drawable/ic_action_place"
+        android:title="@string/action_locations"
+        android:showAsAction="always" />
+
+</menu><!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/menu/menu_local_weather.xml -->

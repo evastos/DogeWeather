@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res" >
+            <file
+                name="action_bar_item_selector"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable\action_bar_item_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_view_item_selector"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable\list_view_item_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spinner_item_location_selector"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable\spinner_item_location_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spinner_item_units_selector"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable\spinner_item_units_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_action_about"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_about.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_about_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_about_dark.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_accept.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_cancel.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_discard"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_discard.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_edit.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_error_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_error_dark.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_new.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_new_dark.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_place"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_place.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_refresh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_select_all"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_select_all.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_warning"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_action_warning.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_about"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_about.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_about_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_about_dark.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_accept.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_cancel.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_discard"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_discard.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_edit.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_error_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_error_dark.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_new.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_new_dark.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_place"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_place.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_refresh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_select_all"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_select_all.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_warning"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_action_warning.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_about"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_about.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_about_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_about_dark.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_accept.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_cancel.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_discard"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_discard.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_edit.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_error_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_error_dark.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_new.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_new_dark.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_place"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_place.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_refresh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_select_all"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_select_all.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_warning"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_action_warning.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_about"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_about.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_about_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_about_dark.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_accept"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_accept.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_cancel"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_cancel.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_discard"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_discard.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_edit.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_error_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_error_dark.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_new.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_new_dark"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_new_dark.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_place"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_place.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_refresh.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_select_all"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_select_all.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_warning"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_action_warning.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\drawable-xxxhdpi\ic_launcher.png"
+                qualifiers="xxxhdpi"
+                type="drawable" />
+            <file
+                name="activity_local_weather"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\activity_local_weather.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_locations"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\activity_locations.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_local_weather"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\fragment_local_weather.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="layout_no_network_connection"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\layout_no_network_connection.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="layout_search_location"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\layout_search_location.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="layout_weather_forecast"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\layout_weather_forecast.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_view_item_location"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\list_view_item_location.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="progress_bar_loading"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\progress_bar_loading.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="spinner_dropdown_item_units"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\spinner_dropdown_item_units.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="spinner_item_location"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\spinner_item_location.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="spinner_item_units"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\layout\spinner_item_units.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="contextual_menu_locations"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\menu\contextual_menu_locations.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="menu_local_weather"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\menu\menu_local_weather.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="menu_locations"
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\menu\menu_locations.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\values\color.xml"
+                qualifiers="" >
+                <color name="dark_blue" >#3C4A90
+                </color>
+                <color name="red" >#FF1D28
+                </color>
+                <color name="light_gray" >#C5C5C5
+                </color>
+                <color name="gray" >#7F7F7F
+                </color>
+                <color name="light_blue" >#96B4E4
+                </color>
+                <color name="yellow" >#FCEE21
+                </color>
+            </file>
+            <file
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="no_network_connection_height" >53dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\values\integer.xml"
+                qualifiers="" >
+                <integer name="translate_anim_duration" >
+1300
+                </integer>
+            </file>
+            <file
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_cancel" >Cancel
+                </string>
+                <string name="action_settings" >Unit settings
+                </string>
+                <string name="location_added" >Location added
+                </string>
+                <string name="action_error" >Error
+                </string>
+                <string name="action_info" >Info
+                </string>
+                <string name="locations_deleted" >Locations deleted
+                </string>
+
+                <array name="default_locations" >
+                    <item>
+Dublin, Ireland
+                    </item>
+                    <item>
+London, United Kingdom
+                    </item>
+                    <item>
+New York, United States Of America
+                    </item>
+                    <item>
+Barcelona, Spain
+                    </item>
+                </array>
+
+                <string name="ok" >OK
+                </string>
+                <string name="action_locations" >Locations
+                </string>
+                <string name="action_about" >About
+                </string>
+                <string name="label_last_update" >Last update:
+                </string>
+                <string name="default_client_error_message" >Error connecting to the client
+                </string>
+                <string name="title_activity_locations" >Locations
+                </string>
+                <string name="location_deleted" >Location deleted
+                </string>
+                <string name="no_results" >No results found
+                </string>
+                <string name="action_add" >Add
+                </string>
+                <string name="action_refresh" >Refresh
+                </string>
+                <string name="action_edit" >Edit
+                </string>
+                <string name="no_network_connection" >No network connection
+                </string>
+                <string name="label_wind" >Wind:
+                </string>
+                <string name="close" >Close
+                </string>
+                <string name="choose_location" >-- Choose location --
+                </string>
+                <string name="title_edit_locations" >Edit
+                </string>
+                <string name="app_name" >DogeWeather
+                </string>
+                <string name="action_select_all" >Select all
+                </string>
+                <string name="label_precipitation" >Precipitation:
+                </string>
+                <string name="action_delete" >Delete
+                </string>
+            </file>
+            <file
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme.ActionBar.ActionButtonStyle"
+                    parent="android:style/Widget.Holo.Light.ActionButton" >
+                    <item name="android:background">
+@drawable/action_bar_item_selector
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme.ActionBar.SpinnerItemStyle"
+                    parent="android:TextAppearance.Holo.Widget.TextView.SpinnerItem" >
+                    <item name="android:textColor">
+@android:color/white
+                    </item>
+                    <item name="android:textSize">
+20sp
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme.ActionBar.TitleTextStyle"
+                    parent="@android:style/TextAppearance" >
+                    <item name="android:textColor">
+@color/yellow
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme.ActionBar.SpinnerDropDownItemStyle"
+                    parent="android:TextAppearance.Holo.Widget.TextView.SpinnerItem" >
+                    <item name="android:textColor">
+@android:color/white
+                    </item>
+                    <item name="android:textSize">
+20sp
+                    </item>
+                    <item name="android:background">
+@drawable/spinner_item_units_selector
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme.ActionBar"
+                    parent="android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:background">
+@color/dark_blue
+                    </item>
+                    <item name="android:subtitleTextStyle">
+@style/AppBaseTheme.ActionBar.TitleTextStyle
+                    </item>
+                    <item name="android:actionButtonStyle">
+@style/AppBaseTheme.ActionBar.ActionButtonStyle
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                    <item name="android:actionBarStyle">
+@style/AppBaseTheme.ActionBar
+                    </item>
+                    <item name="android:actionButtonStyle">
+@style/AppBaseTheme.ActionBar.ActionButtonStyle
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                    <item name="android:actionBarStyle">
+@style/AppBaseTheme.ActionBar
+                    </item>
+                    <item name="android:actionButtonStyle">
+@style/AppBaseTheme.ActionBar.ActionButtonStyle
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme.ActionBar.TitleTextStyle"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+@color/yellow
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme.ActionBar"
+                    parent="android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:background">
+@color/dark_blue
+                    </item>
+                    <item name="android:subtitleTextStyle">
+@style/AppBaseTheme.ActionBar.TitleTextStyle
+                    </item>
+                    <item name="android:actionButtonStyle">
+@style/AppBaseTheme.ActionBar.ActionButtonStyle
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme.ActionBar.SpinnerItemStyle"
+                    parent="android:TextAppearance.Holo.Widget.TextView.SpinnerItem" >
+                    <item name="android:textColor">
+@android:color/white
+                    </item>
+                    <item name="android:textSize">
+20sp
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme.ActionBar.ActionButtonStyle"
+                    parent="android:style/Widget.Holo.Light.ActionButton" >
+                    <item name="android:background">
+@drawable/action_bar_item_selector
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme.ActionBar.SpinnerDropDownItemStyle"
+                    parent="android:TextAppearance.Holo.Widget.TextView.SpinnerItem" >
+                    <item name="android:textColor">
+@android:color/white
+                    </item>
+                    <item name="android:textSize">
+20sp
+                    </item>
+                    <item name="android:background">
+@drawable/spinner_item_units_selector
+                    </item>
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\build\res\rs\debug" />
+        <source path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Eva\AndroidStudioProjects-Eva\DogeWeather\app\src\debug\res" />
+    </dataSet>
+
+</merger>

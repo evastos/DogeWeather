@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- No network connection animation duration -->
+    <integer name="translate_anim_duration" >1300</integer>
+
+</resources>

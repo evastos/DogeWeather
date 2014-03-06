@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/layout_search_location"
+        android:id="@+id/layout_search_location"
+        android:visibility="gone">
+
+    </include>
+
+
+    <ListView
+        android:id="@+id/list_view_locations"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:listSelector="@drawable/list_view_item_selector"
+        android:background="@android:color/transparent"></ListView>
+
+
+</LinearLayout>

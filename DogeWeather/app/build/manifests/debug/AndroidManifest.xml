@@ -1,0 +1,32 @@
+<!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0.0" package="com.evastos.dogeweather">
+
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="19"/>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <!-- Needed to check when the network connection changes -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.evastos.dogeweather.application.DogeWeatherApp" android:theme="@style/AppTheme">
+        
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.evastos.dogeweather.local_weather.LocalWeatherActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_locations" android:name="com.evastos.dogeweather.locations.LocationsActivity" android:parentActivityName="com.evastos.dogeweather.local_weather.LocalWeatherActivity">
+
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".local_weather.LocalWeatherActivity"/>
+        </activity>
+
+        <receiver android:enabled="true" android:label="NetworkConnection" android:name="com.evastos.dogeweather.receiver.ConnectionChangeReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

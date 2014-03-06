@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- No Network Connection -->
+    <dimen name="no_network_connection_height">53dp</dimen>
+    
+</resources>

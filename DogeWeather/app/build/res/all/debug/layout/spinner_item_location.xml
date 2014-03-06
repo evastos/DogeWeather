@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:background="@drawable/spinner_item_location_selector">
+
+    <TextView
+        android:id="@+id/text_view_location_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textColor="@color/dark_blue"
+        android:textSize="18sp"
+        android:layout_marginLeft="10dp" />
+
+</LinearLayout><!-- From: file:/C:/Users/Eva/AndroidStudioProjects-Eva/DogeWeather/app/src/main/res/layout/spinner_item_location.xml -->

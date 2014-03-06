@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/layout_local_weather_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:id="@+id/layout_current_condition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:orientation="vertical"
+                android:gravity="center_horizontal">
+
+                <TextView
+                    android:id="@+id/text_view_temperature"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="6dp"
+                    android:textColor="@color/gray" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:orientation="horizontal"
+                    android:gravity="center">
+
+                    <TextView
+                        android:id="@+id/text_view_temperature_max"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/gray"
+                        android:layout_marginRight="6dp" />
+
+                    <TextView
+                        android:id="@+id/text_view_temperature_min"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/dark_blue" />
+
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/image_view_weather_icon"
+                    android:layout_width="128dp"
+                    android:layout_height="128dp"
+                    android:scaleType="fitCenter"
+                    android:layout_marginTop="12dp" />
+
+                <TextView
+                    android:id="@+id/text_view_weather_description"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="22sp"
+                    android:textColor="@color/gray"
+                    android:layout_marginTop="12dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text_view_wind"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/gray"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/text_view_precipitation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/gray"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/text_view_observation_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:textColor="@color/gray"
+                    android:layout_marginTop="10dp" />
+
+            </LinearLayout>
+
+
+            <com.evastos.dogeweather.view.WeatherForecastHolder
+                android:id="@+id/weather_forecast_holder"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/layout_current_condition"
+                android:orientation="horizontal"
+                android:layout_marginTop="25dp"
+                android:weightSum="4"
+                android:gravity="center">
+
+            </com.evastos.dogeweather.view.WeatherForecastHolder>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/layout_local_weather_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:id="@+id/progress_bar_local_weather"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
