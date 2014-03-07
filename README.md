@@ -1,6 +1,8 @@
 DogeWeather
 ===========
 
+Doge, my fav meme: http://knowyourmeme.com/memes/doge
+
 ##Build instructions
 
 Clone repository or download zip; import project to Android Studio.
